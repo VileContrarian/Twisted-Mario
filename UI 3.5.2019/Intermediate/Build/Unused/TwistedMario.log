@@ -1,7 +1,0 @@
-﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\Brand\Desktop\UICrew\UIDeligates).
-  Creating makefile for TwistedMarioEditor (ini files are newer than UBTMakefile)
-  Performing full C++ include scan (no include cache file)
-  Using Visual Studio 2017 14.16.27023 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023) and Windows 10.0.16299.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Target is up to date
-  Deploying TwistedMarioEditor Win64 Development...
-  Total build time: 4.05 seconds (NoActionsToExecute executor: 0.00 seconds)

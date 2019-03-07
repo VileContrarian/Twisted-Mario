@@ -1,3 +1,0 @@
-C:\Users\Brand\Desktop\IslandJumpers\Islander_Jumpers-Is_An_Inferior_Name--master\TwistedMario\Source\TwistedMario\TwistedMario.Build.cs
-C:\Users\Brand\Desktop\IslandJumpers\Islander_Jumpers-Is_An_Inferior_Name--master\TwistedMario\Source\TwistedMario.Target.cs
-C:\Users\Brand\Desktop\IslandJumpers\Islander_Jumpers-Is_An_Inferior_Name--master\TwistedMario\Source\TwistedMarioEditor.Target.cs
